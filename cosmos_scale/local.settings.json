@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "AzureWebJobsDashboard": "",
+    "CosmosDB_Uri": "https://<uri>.documents.azure.com:443/",
+    "CosmosDB_appKey": "<primary key>==",
+    "CosmosDB_DatabaseId": "<database name>",
+    "CosmosDB_ContainerId": "<collection name>",
+    "CosmosDB_RU": 100
+  }
+}
