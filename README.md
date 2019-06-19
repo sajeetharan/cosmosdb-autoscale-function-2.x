@@ -1,4 +1,4 @@
-# cosmosdb-autoscale with Azure Function V2.0
+# cosmosdb-autoscale with Azure Function 2.X
 Azure function to scale up/down RUs on cosmosdb
 
 if you are stuck at anypoint, refer the blog
